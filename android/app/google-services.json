@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395390859467",
+    "project_id": "vastraloka-50290",
+    "storage_bucket": "vastraloka-50290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395390859467:android:3ee15f2140261d35b2434e",
+        "android_client_info": {
+          "package_name": "com.example.vastraloka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzvI0-R8hnu-hMDN2Yse2UMn8yAW3mXvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
